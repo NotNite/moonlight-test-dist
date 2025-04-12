@@ -1,1 +1,9 @@
-{}
+{
+  "imageViewer": {
+    "version": "1.0.12",
+    "manifest": {
+      "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
+      "commit": "903fa91457071005ec58383410eea3f06bb791d6"
+    }
+  }
+}
